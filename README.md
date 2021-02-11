@@ -1,7 +1,7 @@
 # aad-login
 
 Allows Linux user authentication to Azure AD via pam_exec
-Origal from: https://github.com/bureado/aad-login  <-- props to you :)
+Origal from: https://github.com/bureado/aad-login  and to https://github.com/cvugrinec/microsoft  <-- props to you :)
 
 Changed the module a bit as the current setup did not work for me... issues with authentication
 Also added an install script to make life a bit easier, cheers
