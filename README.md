@@ -6,7 +6,7 @@ Origal from: https://github.com/bureado/aad-login  <-- props to you :)
 Changed the module a bit as the current setup did not work for me... issues with authentication
 Also added an install script to make life a bit easier, cheers
 
-PS only tested on ubuntu 14.04
+PS only tested on ubuntu 20.04
 
 
 ## Prerequisites
