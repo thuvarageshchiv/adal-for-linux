@@ -6,8 +6,8 @@
 */
 
 // Configuration parameters
-var directory = 'fiport.onmicrosoft.com';
-var clientid  = '88e7d7b7-e3ad-4db2-ba39-b98cef69cdd5';
+var directory = 'example.onmicrosoft.com';
+var clientid  = 'xxxxxxxxxxxxxxxxxxx';
 
 if (!directory || !clientid) {
   console.log('You need to provide your directory and client ID');
