@@ -58,3 +58,4 @@ cd /opt/aad-login
 npm install
 
 sed -i '1s/.*/auth sufficient pam_exec.so expose_authtok \/usr\/local\/bin\/aad-login/' /etc/pam.d/common-auth
+chmod 755 /usr/local/bin/aad-login
